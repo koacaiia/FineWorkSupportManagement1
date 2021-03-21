@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1002081669145",
+    "firebase_url": "https://fir-relativerecyclerview.firebaseio.com",
+    "project_id": "fir-relativerecyclerview",
+    "storage_bucket": "fir-relativerecyclerview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002081669145:android:e16d67da92a0c33f5d9a88",
+        "android_client_info": {
+          "package_name": "fine.koaca.fineworksupportmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002081669145-4nul53umq7k657df1226lk6tb4f8qqoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2DxWiqbscuXd35CwE8kYKmEv-5xO-l78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002081669145-4nul53umq7k657df1226lk6tb4f8qqoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002081669145:android:b9d3053b0d00ee705d9a88",
+        "android_client_info": {
+          "package_name": "fine.koaca.firebaserelativerecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002081669145-4nul53umq7k657df1226lk6tb4f8qqoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2DxWiqbscuXd35CwE8kYKmEv-5xO-l78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002081669145-4nul53umq7k657df1226lk6tb4f8qqoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
